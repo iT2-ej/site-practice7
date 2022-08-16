@@ -10,6 +10,8 @@
   background-image: url(img/mv.jpg);
   background-size: cover;
   background-position: bottom;
+  border-bottom: 1px solid black;
+  padding: 30px;
 }
 
 .headline {
@@ -33,13 +35,13 @@ main {
   padding-bottom: 30px;
 }
 
-.service3 {
+.service {
   margin-bottom: 30px;
   border-bottom: 1px solid #d1d1d1;
   padding-bottom: 30px;
 }
 
-.service4 {
+.service3 {
   border-bottom: 1px solid #d1d1d1;
   padding-bottom: 30px;
 }
